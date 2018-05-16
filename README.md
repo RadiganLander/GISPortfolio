@@ -1,5 +1,4 @@
-# RadiganLander/GISPortfolio
-R. Lander's Static Map GIS Portfolio
+# GIS Portfolio -- Radigan Lander
 
 Last updated:  5/15/18
 
