@@ -1,4 +1,4 @@
-# GIS Portfolio -- Radigan Lander
+# Radigan Lander's GIS Portfolio
 
 Last updated:  5/15/18
 
