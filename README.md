@@ -1,8 +1,10 @@
-# Radigan Lander's GIS Portfolio
+# Static Maps Portfolio
 
 Last updated:  5/15/18
 
 ------CHANGELOG------
+
+4/8/20: Renamed for better clarification
 
 5/15/18:  Created readme file for descriptions of maps; reuploaded OregonPerCaptia.png
 
